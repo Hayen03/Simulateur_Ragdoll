@@ -1,0 +1,40 @@
+body {
+	font-family: Noteworthy;
+}
+
+div.image {
+	float: left;
+}
+div.image img {
+	width: auto;
+	height: auto;
+	vertical-align: text-top;
+}
+
+div.text {
+	float: left;
+}
+
+div.objA {
+	float: left;
+	position: relative;
+	width: 100%;
+	background-color: rgb(200, 200, 200);
+}
+div.objA img {
+	width: auto;
+	height: auto;
+	vertical-align: text-top;
+}
+
+div.objB {
+	float: left;
+	position: relative;
+	width: 100%;
+	background-color: rgb(150, 150, 150);
+}
+div.objB img {
+	width: auto;
+	height: auto;
+	vertical-align: text-top;
+}
